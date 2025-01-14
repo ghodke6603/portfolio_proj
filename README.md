@@ -1,2 +1,3 @@
 # portfolio_proj
-portfolio project using HTML and CSS
+portfolio project using HTML and CSS.
+
